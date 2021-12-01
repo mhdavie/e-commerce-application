@@ -29,12 +29,12 @@ This is a back end for an e-commerce site. It takes Express.js API and configure
 
 ## GitHub Repository
 
-* [E-Commerce Applicatio GitHub Repository ](https://github.com/mhdavie/team-profile-generator)
+* [E-Commerce Application GitHub Repository ](https://github.com/mhdavie/team-profile-generator)
 
 
 ## Walkthrough Video
 
-* [E-Commerce Applicatio  Video](https://watch.screencastify.com/v/dMJDhifUGRUDaWONVNQr)
+* [E-Commerce Application  Video](https://watch.screencastify.com/v/QEEoaJtxZRy4jUijbesM)
 
 ## Application 
 
@@ -44,4 +44,4 @@ This is a back end for an e-commerce site. It takes Express.js API and configure
 
 ![](assets/test.png)
 
-![](assets/appteam.png)
+![](assets/insominia.png)
